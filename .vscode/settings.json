@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "E:\\python\\Python36-32\\python.exe" ,//路径
+    // "python.linting.enabled": true,//忘了是什么东西了，反正有用
+}

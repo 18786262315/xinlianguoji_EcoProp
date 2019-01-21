@@ -1,0 +1,30 @@
+{
+
+
+"login":"-------------------登录------------------",
+"login_name" : "xpath,//*[@id='login']/section/main/div/div[2]/form/div[1]/div/div/input", 
+"login_pss" : "xpath,//*[@id='login']/section/main/div/div[2]/form/div[2]/div/div/input",
+"login_boutten" : "xpath,//*[@id='login']/section/main/div/div[2]/button",
+
+
+"Properties":"-------------------项目列表------------------",
+"Properties_Refresh":"xpath,//*[@id='home']/section/section/main/div/div[1]/div/div[1]/button",
+"Properties_input":"id,projectFile",
+"Properties_import":"xpath,//*[@id='home']/section/section/main/div/div[1]/div/div[2]/div/button[2]/span",
+"Properties_tables":"xpath,//*[@id='home']/section/section/main/div/div[2]/div/div[3]/table",
+"Properties_2":"",
+"Properties_!":"",
+"Properties_23":""
+
+
+}
+
+
+
+
+
+
+
+
+
+
